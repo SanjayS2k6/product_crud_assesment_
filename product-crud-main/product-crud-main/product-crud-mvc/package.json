@@ -1,0 +1,14 @@
+{
+  "name": "product-crud-mvc",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.6.0",
+    "nodemon": "^3.1.7"
+  }
+}
